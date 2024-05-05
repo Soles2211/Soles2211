@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Soles, a current Computer Systems student. I'm currently learning how to use HTML, CSS, and Javascript. One fun fact about me is that I'm also an artist.
 <!--
 **Soles2211/Soles2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
